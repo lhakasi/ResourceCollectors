@@ -1,2 +1,1 @@
-# ResourceCollectors
- Пылесосы как есть
+![](https://github.com/lhakasi/ResourceCollectors/blob/main/339552910a3b39dfad3c841cb06326c5--monkey-humor-animals-in-space.jpg)
